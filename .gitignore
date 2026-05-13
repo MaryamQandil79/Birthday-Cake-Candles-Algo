@@ -67,3 +67,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+
+
+# Compiled binaries
+a.out
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
